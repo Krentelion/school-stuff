@@ -6,7 +6,7 @@
     
     <style>
         body {
-            background-color:rgb(40, 40, 40);
+            background-color:rgb(30, 30, 30);
         }
         
         img {
@@ -43,12 +43,11 @@
     
     <body>
         <h1 class="white-text">Welcome to Carter's homepage.</h1>
-        <p>please kill me.</p><br>
         
         <img src="https://github.com/Krentelion/school-stuff/blob/main/IMG_2135-cropped.png?raw=true">
         <p>^ I had to pull this image from abandoned photos.</p>
         
-        <p>Not much is interesting about me, but I'm forced to make a webpage. I'd say I'm extremely good at making websites. Below is a couple reasons on why I wanna die.</p><br>
+        <p>Not much is interesting about me, but I'm forced to make a webpage. Not to stroke my ego, but I'd say I'm extremely good at making websites.</p><br>
         <p>I like:</p>
         
         <ol>
